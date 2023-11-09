@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.baba{
+    display: flex;
+    justify-content: space-around;
+}
+.chele{
+    width: 45%;
+    background-color: rgb(16, 214, 214);
+    padding: 20px;
+    box-sizing: border-box;
+}
+.meye{
+    width: 50%;
+    background-color: rgb(187, 9, 9);
+    padding: 20px;
+    box-sizing: border-box;
+}
+.lader{
+    background-color: rgb(176, 176, 5);
+    padding: 50px 0;
+}
+.chela{
+    width: 90% ;
+    margin: auto;
+}
+.chela2{
+    text-align: center;
+    margin-bottom: 35px;
+}
+.chela2 h2{
+    font-size: 40px;
+    font-style: italic;
+}
+.team-membar{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+}
+.member{
+    width: 24%;
+    
+}
+.member img{
+    width: 100%;
+    height: 100%;
+    
+}
+.box{
+    height: 350px;
+    width: 600px;
+    background-color: rgb(104, 248, 200);
+    margin: 100px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inner-box{
+    background-color: rgb(223, 60, 60);
+    color: #fff;
+    width: 100px;
+    height: 100px;
+    margin: 0 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inner-box2{
+    background-color: rgb(24, 48, 155);
+    color: #fff;
+    width: 120px;
+    height: 100px;
+    margin: 0 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inner-box span{
+    font-size: 25px;
+
+}
+.inner-box2 span{
+    font-size: 25px;
+}
