@@ -109,3 +109,10 @@
 .inner-box2 span{
     font-size: 25px;
 }
+i{
+    color: #fff;
+    background-color: black;
+}
+i:hover{
+    color: rgb(176, 176, 5);
+}
